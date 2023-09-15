@@ -1,5 +1,6 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
+-- import: sarvom.github.io/holy-angel-typography
 -- import: ashwintr2026.github.io/ashwin-tr-portfolio/lib
 
 -- lib.page:
@@ -14,15 +15,14 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
--- hero-1.hero-1: I'm John Doe
+-- hero-1.hero-1: I'm Ashwin TR
 cta-button-1: Resume
 link-1: https://www.resume.com/
-cta-button-2: Schedule Meeting
+cta-button-2: Meet me
 link-2: https://calendly.com/
-cover: $assets.files.assets.ape-1.jpg
+cover: $assets.files.assets.ATR.jpg
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+I am a BTech Computer Science student in SJCET Palai
 
 
 -- end: lib.page
